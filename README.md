@@ -8,24 +8,33 @@ A data-driven project exploring market trends, salaries, job types, and AI appli
 - Evaluate impact of experience level and job type (Remote, Hybrid, Onsite)  
 - Explore AI in web scraping and data visualization
 
-## 📁 Project Structure
-📂 data
- └── business_analyst_jobs.csv
-📂 notebooks
- ├── Webscrapping_code.ipynb
- └── Visualization_code.ipynb
-README.md
-
 ## ⚙️ Tools & Tech
 - Python, Pandas, Matplotlib, Seaborn  
 - BeautifulSoup, Requests (Web Scraping)  
 - Jupyter Notebooks  
 
-## 🧠 Key Insights
-- Tech, Crypto, and Automotive industries offer top salaries
-- San Francisco and New York lead in compensation
-- Hybrid jobs tend to pay more than Onsite
-- AI improves scraping reliability and enables real-time visual insights
+## 📈 Key Visualizations & Insights
+
+### 1. Salary by Industry
+- Highest: Crypto, Automotive, Tech  
+- Mid-range: Healthcare, Finance, Consulting  
+- Lowest: Energy, Recruitment
+
+### 2. Salary by City (Top 10)
+- Highest salaries in San Francisco, New York, and Boston  
+- Lowest in Jacksonville and Minneapolis
+
+### 3. Job Postings Over Time
+- Peak in July, dip in September–October  
+- Suggests a mid-year hiring cycle
+
+### 4. Location Type vs. Salary
+- Hybrid roles have the highest and most variable salaries  
+- Onsite jobs show the narrowest and lowest salary range
+
+### 5. Salary vs. Experience
+- 5–10 years: Highest median salaries and wide range  
+- 0–3 years: Lowest salaries, narrow range
 
 ## 🏥 Healthcare Industry Deep Dive
 - **High Salary Volatility** in mid-2024
