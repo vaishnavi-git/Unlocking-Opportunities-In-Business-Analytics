@@ -13,13 +13,6 @@ A data-driven project exploring market trends, salaries, job types, and AI appli
 - BeautifulSoup, Requests (Web Scraping)  
 - Jupyter Notebooks  
 
-## 📁 Project Structure
-📂 data
-└── business_analyst_jobs.csv
-📂 notebooks
-├── Webscrapping_code.ipynb
-└── Visualization_code.ipynb
-
 ## 🧠 Key Insights
 - Tech, Crypto, and Automotive industries offer top salaries
 - San Francisco and New York lead in compensation
